@@ -12,7 +12,7 @@
 <a href="https://beacons.ai/leonardolagunaa"/>
 <img src="https://github-readme-stats.vercel.app/api?username=Leonardolagunaa&theme=midnight-purple&show_icons=true"/> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardolagunaa&theme=midnight-purple&show_icons=true%22/%3E/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardolagunaa&theme=midnight-purple&show_icons=true%22/%3E"/>
 
 </div>
 ### Tecnologias que eu estudo no meu dia a dia
