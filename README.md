@@ -15,6 +15,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardolagunaa&theme=midnight-purple&show_icons=true%22/%3E"/>
 
 </div>
+
 ### Tecnologias que eu estudo no meu dia a dia
 
 <div style="display:inline_block"><br/>
